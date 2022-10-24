@@ -3,3 +3,4 @@
 * Scraped over 1000 product descriptions from the clothing store, The Reformation using python and selenium
 * Stored the data in a hosted database (AWS RDS).
 * Optimized solution by targeting unique identifier-keys like ASIN in cases where website structure changes or product becomes out-of-stock.
+![](/images/Scraping.png)
