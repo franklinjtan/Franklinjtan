@@ -1,4 +1,3 @@
-# Frank's Portfolio
 Data Science Projects
 
 # Project 1: Fashion Store Crawler
