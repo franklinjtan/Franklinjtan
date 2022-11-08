@@ -8,7 +8,7 @@
 * Cleaned and prepared monthly retail trade data from the Census Burea to create a time-series of various industries from 1992 to 2022
 * Used Python Pandas for data cleaning and Tableau to create visualizations
 ![](/images/Industry%20Overview.png)
-![](/main/images/Online%20Shopping%20Forecast.png)
+![](/images/Online%20Shopping%20Forecast.png)
 
 
 # [Project 3: Fashion Store Crawler](https://github.com/franklinjtan/fashion-store-crawler)
