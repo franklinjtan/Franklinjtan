@@ -1,5 +1,5 @@
 # [Project 1: Optimal Production Level Simulation](https://github.com/franklinjtan/Optimal-Production-Level-Simulation)
-* Created a simulation on Python that will generate a production level recommendation given a set of parameters
+* Created a program simulation written in Python that will generate a production level recommendation given a set of parameters
 * Used NumPy to generate a random sample of demand instances from a normal (Gaussian) distribution.
 * Used matplotlib to generate a scatterplot visualization with a color scale depicting optimal ranges of production
 ![](/images/Fig1.png)
