@@ -1,8 +1,8 @@
 # [Project 1: Analyzing My Portfolio For Diversification Using Correlation Matrix in Python](https://github.com/franklinjtan/Analyzing-My-Portfolio-For-Diversification-Using-Correlation-Matrix-in-Python)
-# Analyzing My Portfolio For Diversification Using Correlation Matrix in Python
 * I was curious to see if my investment porfolio hit the sweet spot between diversification and correlation, so I plotted the 5-year returns of my investments against SPY, used linear regression to calculate the beta and correlation, and generated a correlation matrix and a heatmap.
 * I concluded that my investments have a long way to go to achieve what Ray Dalio describes as the "Holy Grail". I will be identifying 10 uncorrelated stocks to increase my return-to-risk ratio
-![](/images/Fig1.png)
+![Correlation Matrix](/images/correlation_matrix.png)
+![Heatmap of Portfolio](/images/portfolio_heatmap.png)
 
 # [Project 2: Optimal Production Level Simulation](https://github.com/franklinjtan/Optimal-Production-Level-Simulation)
 * Created a program simulation written in Python that will generate a production level recommendation given a set of parameters
