@@ -8,8 +8,8 @@
 * Created a program simulation written in Python that will generate a production level recommendation given a set of parameters
 * Used NumPy to generate a random sample of demand instances from a normal (Gaussian) distribution.
 * Used matplotlib to generate a scatterplot visualization with a color scale depicting optimal ranges of production
-![](/images/images/fig2.png)
-![](/images/images/fig3.png)
+![](/images/fig2.png)
+![](/images/fig3.png)
 
 # [Project 3: Visualizing and Forecasting Monthly Retail Trade Data](https://github.com/franklinjtan/Visualizing-and-Forecasting-Monthly-Retail-Trade-Data)
 * Cleaned and prepared monthly retail trade data from the Census Burea to create a time-series of various industries from 1992 to 2022
