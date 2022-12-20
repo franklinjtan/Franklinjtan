@@ -4,7 +4,7 @@
 ![Correlation Matrix](/images/correlation_matrix.png)
 ![Heatmap of Portfolio](/images/portfolio_heatmap.png)
 
-# [Project 2: Optimal Production Level Simulation](https://github.com/franklinjtan/Optimal-Production-Level-Simulation)
+# [Project 2: Monte Carlo Simulation - Optimal Production Level ](https://github.com/franklinjtan/-Monte-Carlo-Simulation---Optimal-Production-Level-)
 * Created a program simulation written in Python that will generate a production level recommendation given a set of parameters
 * Used NumPy to generate a random sample of demand instances from a normal (Gaussian) distribution.
 * Used matplotlib to generate a scatterplot visualization with a color scale depicting optimal ranges of production
