@@ -27,4 +27,4 @@
 
 # Certificates:
 * [Analyzing Data in Spreadsheets](https://github.com/franklinjtan/Frank_Portfolio/blob/main/certificates/Analyzing%20Data%20in%20Spreadsheets%20Certificate.pdf)
-* [Financial Analytics in Spreadsheets(https://github.com/franklinjtan/Frank_Portfolio/blob/main/certificates/Financial%20Analytics%20in%20Spreadsheets%20Certificate.pdf)
+* [Financial Analytics in Spreadsheets](https://github.com/franklinjtan/Frank_Portfolio/blob/main/certificates/Financial%20Analytics%20in%20Spreadsheets%20Certificate.pdf)
