@@ -24,3 +24,7 @@
 * Scraped over 1000 product descriptions from the clothing store, The Reformation using python and selenium
 * Stored the data in a hosted database (AWS RDS).
 * Optimized solution by targeting unique identifier-keys like ASIN in cases where website structure changes or product becomes out-of-stock.
+
+# Certificates:
+* [Analyzing Data in Spreadsheets](https://github.com/franklinjtan/Frank_Portfolio/blob/main/certificates/Analyzing%20Data%20in%20Spreadsheets%20Certificate.pdf)
+* [Financial Analytics in Spreadsheets(https://github.com/franklinjtan/Frank_Portfolio/blob/main/certificates/Financial%20Analytics%20in%20Spreadsheets%20Certificate.pdf)
