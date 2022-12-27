@@ -1,4 +1,4 @@
-![Franklin Tan Image Bio](/images/Franklin_Tan.jpeg)
+<img src="/images/Franklin_Tan.jpeg" alt="Franklin Tan Image Headshot" width="175" align="left"/>
 **Franklin Tan**<br> 
 **Cornell University SC Johnson College of Business**<br> 
 Candidate for Masters in Business Analytics '23<br>
