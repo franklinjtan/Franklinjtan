@@ -2,7 +2,7 @@
 
 **Franklin Tan**<br> 
 **Cornell University SC Johnson College of Business**<br> 
-Candidate for Masters in Business Analytics '23<br><br> 
+Candidate for Masters in Business Analytics '23<br>
 
 **New Jersey Institute of Technology**<br>
 **Ying Wu College of Computing**<br>
