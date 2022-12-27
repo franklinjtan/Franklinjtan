@@ -1,11 +1,10 @@
 ![Franklin Tan Image Headshot](/images/Franklin_Tan_resized.jpeg)<br>
-#Franklin Tan# 
-* Cornell University SC Johnson College of Business**
-  * Candidate for Masters in Business Analytics '23
 
-**New Jersey Institute of Technology**<br>
-**Ying Wu College of Computing**<br>
-Bachelor of Science in Business Information Systems '21
+# Franklin Tan
+* **Cornell University SC Johnson College of Business**
+  * Candidate for Masters in Business Analytics '23
+* **New Jersey Institute of Technology Ying Wu College of Computing**
+  * Bachelor of Science in Business Information Systems '21
 
 # [Project 1: Portfolio Diversification: Correlation Risk Management with Python](https://github.com/franklinjtan/Portfolio-Diversification-Correlation-Risk-Management-with-Python)
 * Understanding the importance of diversification and a portfolio of uncorrelated returns, I plotted the 5-year returns of several equities, ETFs, and commodities against SPY. I also used linear regression to calculate the beta and correlation, and generated a correlation matrix and a heatmap.<br>
