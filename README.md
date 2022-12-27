@@ -1,10 +1,10 @@
-<img src="/images/Franklin%20Tan.jpeg" alt="Franklin Tan Image Bio" width="175" align="left"> 
-Franklin Tan<br> 
-Cornell University SC Johnson College of Business<br> 
+<img src="/images/Franklin%20Tan.jpeg" alt="Franklin Tan Image Bio" width="175" align="left">
+**Franklin Tan**<br> 
+**Cornell University SC Johnson College of Business**<br> 
 Candidate for Masters in Business Analytics '23<br><br> 
 
-New Jersey Institute of Technology<br>
-Ying Wu College of Computing<br>
+**New Jersey Institute of Technology**<br>
+**Ying Wu College of Computing**<br>
 Bachelor of Science in Business Information Systems '21
 
 # [Project 1: Portfolio Diversification: Correlation Risk Management with Python](https://github.com/franklinjtan/Portfolio-Diversification-Correlation-Risk-Management-with-Python)
