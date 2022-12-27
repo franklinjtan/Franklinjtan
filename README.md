@@ -1,7 +1,7 @@
 ![Franklin Tan Image Headshot](/images/Franklin_Tan_resized.jpeg)<br>
-**Franklin Tan**<br> 
-**Cornell University SC Johnson College of Business**<br> 
-Candidate for Masters in Business Analytics '23<br>
+#Franklin Tan# 
+* Cornell University SC Johnson College of Business**
+  * Candidate for Masters in Business Analytics '23
 
 **New Jersey Institute of Technology**<br>
 **Ying Wu College of Computing**<br>
