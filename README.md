@@ -1,3 +1,5 @@
+![Franklin Tan - Headshot Image](/images/Franklin Tan.jpeg)
+
 # [Project 1: Portfolio Diversification: Correlation Risk Management with Python](https://github.com/franklinjtan/Portfolio-Diversification-Correlation-Risk-Management-with-Python)
 * Understanding the importance of diversification and a portfolio of uncorrelated returns, I plotted the 5-year returns of several equities, ETFs, and commodities against SPY. I also used linear regression to calculate the beta and correlation, and generated a correlation matrix and a heatmap.
 ![Correlation Matrix](/images/correlation_matrix.png)
