@@ -1,4 +1,4 @@
-<img src="/images/Franklin%20Tan.jpeg" alt="Franklin Tan Image Bio" width="175" align="left">
+<img src="/images/Franklin_Tan.jpeg" alt="Franklin Tan Image Bio" width="175" align="left">
 
 **Franklin Tan**<br> 
 **Cornell University SC Johnson College of Business**<br> 
