@@ -15,7 +15,7 @@
   * Head of Social Media: “The goal of 4.5/5 is unreasonable for national chains like us. Only small, local, and boutique restaurants can achieve such high ratings.”
   * Chief Data Scientist: “It is well known that customers make the effort to give a rating only when they are either extremely angry or absolutely delighted with the service. So online ratings are not reliable.”
 * Used matplotlib, seaborn, scipy, and pandas to generate line charts, bar charts, scatterplots, groupedby dataframes, and linear regression analyses
-![Avg Ratings by State through the Years](/images/subway_fig_2.png)
+![Avg Ratings by State through the Years](/images/subway_fig_10.png)
 ![Total Ratings Received by stars value and years 2018-2021](/images/subway_fig_11.png)
 
 # [Project 3: Monte Carlo Simulation - Optimal Production Level](https://github.com/franklinjtan/-Monte-Carlo-Simulation---Optimal-Production-Level-)
