@@ -37,6 +37,7 @@
 * Optimized solution by targeting unique identifier-keys like ASIN in cases where website structure changes or product becomes out-of-stock.
 
 # Certificates:
+* [Intro to Portfolio Analysis in Python](https://github.com/franklinjtan/Frank_Portfolio/blob/main/certificates/Introduction%20to%20Portfolio%20Analysis%20in%20Python%20Certificate.pdf)
 * [Time Series Analysis in Python](https://github.com/franklinjtan/Frank_Portfolio/blob/main/certificates/Time%20Series%20Analysis%20in%20Python%20Certificate.pdf)
 * [Analyzing Data in Spreadsheets](https://github.com/franklinjtan/Frank_Portfolio/blob/main/certificates/Analyzing%20Data%20in%20Spreadsheets%20Certificate.pdf)
 * [Financial Analytics in Spreadsheets](https://github.com/franklinjtan/Frank_Portfolio/blob/main/certificates/Financial%20Analytics%20in%20Spreadsheets%20Certificate.pdf)
