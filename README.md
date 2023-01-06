@@ -2,7 +2,7 @@
 
 # Franklin Tan
 # [Project 1: Exploratory Data Analysis: Netflix Movie Data](https://github.com/franklinjtan/Exploratory-Data-Analysis-Netflix-Movie-Data)
-* Created a set of analyses and data visualizations that explors whether Netflix movies are getting longer or shorter<br>
+* Created a set of analyses and data visualizations that explores whether Netflix movies are getting longer or shorter<br>
 * Used matplotlib, pandas, seaborn to generate line charts, bar charts, histograms, box plots, scatterplots, and groupedby dataframes
 ![Scatterplot-Netflix](/images/scatterplot-netflix.png)
 ![Linechart-Netflix](/images/lineplot-netflix.png)
