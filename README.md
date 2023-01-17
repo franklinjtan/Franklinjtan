@@ -42,6 +42,8 @@
 * Optimized solution by targeting unique identifier-keys like ASIN in cases where website structure changes or product becomes out-of-stock.
 
 # Certificates:
+* [Data Manipulation with Pandas](https://github.com/franklinjtan/Frank_Portfolio/blob/main/certificates/Data%20Manipulation%20with%20Pandas%20Certificate.pdf)
+
 * [Intro to Portfolio Analysis in Python](https://github.com/franklinjtan/Frank_Portfolio/blob/main/certificates/Introduction%20to%20Portfolio%20Analysis%20in%20Python%20Certificate.pdf)
 
 * [Time Series Analysis in Python](https://github.com/franklinjtan/Frank_Portfolio/blob/main/certificates/Time%20Series%20Analysis%20in%20Python%20Certificate.pdf)
