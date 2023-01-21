@@ -1,9 +1,9 @@
 # Franklin Tan
 
-## My Linka
+## My Links
 * [LinkedIn](https://www.linkedin.com/in/franklinjtan/)
 * [Github](https://github.com/franklinjtan)
-* [Library Collection](https://docs.google.com/spreadsheets/d/e/2PACX-1vRV0-0uWWpNxamZL3CbJzEVE6gsGag2Ik7O8Gn5PzjvLQXLtnl_dGavcmdh_MqkBgkChYxQzVF6ksvc/pubhtml)
+* [Book Collection](https://docs.google.com/spreadsheets/d/e/2PACX-1vRV0-0uWWpNxamZL3CbJzEVE6gsGag2Ik7O8Gn5PzjvLQXLtnl_dGavcmdh_MqkBgkChYxQzVF6ksvc/pubhtml)
 
 # [Project 1: Exploratory Data Analysis: Netflix Movie Data](https://github.com/franklinjtan/Exploratory-Data-Analysis-Netflix-Movie-Data)
 * Created a set of analyses and data visualizations that explores whether Netflix movies are getting longer or shorter<br>
