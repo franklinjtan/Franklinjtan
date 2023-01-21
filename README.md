@@ -1,4 +1,5 @@
 ![Franklin Tan Image Headshot](/images/Franklin_Tan_resized.jpeg)<br>
+* [LinkedIn](https://www.linkedin.com/in/franklinjtan/)
 
 # Franklin Tan
 # [Project 1: Exploratory Data Analysis: Netflix Movie Data](https://github.com/franklinjtan/Exploratory-Data-Analysis-Netflix-Movie-Data)
@@ -6,7 +7,6 @@
 * Used matplotlib, pandas, seaborn to generate line charts, bar charts, histograms, box plots, scatterplots, and groupedby dataframes
 ![Scatterplot-Netflix](/images/scatterplot-netflix.png)
 ![Linechart-Netflix](/images/lineplot-netflix.png)
-| <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />                   | `https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white`                   |
 
 # [Project 2: Portfolio Diversification: Correlation Risk Management with Python](https://github.com/franklinjtan/Portfolio-Diversification-Correlation-Risk-Management-with-Python)
 * Understanding the importance of diversification and a portfolio of uncorrelated returns, I plotted the 5-year returns of several equities, ETFs, and commodities against SPY. 
