@@ -3,7 +3,7 @@
 ## My Links
 * [LinkedIn](https://www.linkedin.com/in/franklinjtan/)
 * [Github](https://github.com/franklinjtan)
-* [Book Collection](https://docs.google.com/spreadsheets/d/e/2PACX-1vRV0-0uWWpNxamZL3CbJzEVE6gsGag2Ik7O8Gn5PzjvLQXLtnl_dGavcmdh_MqkBgkChYxQzVF6ksvc/pubhtml)
+* [Book Reads](https://docs.google.com/spreadsheets/d/e/2PACX-1vRV0-0uWWpNxamZL3CbJzEVE6gsGag2Ik7O8Gn5PzjvLQXLtnl_dGavcmdh_MqkBgkChYxQzVF6ksvc/pubhtml)
 * [Cornell MSBA Data Science Club](https://cornell-msba-ds.github.io/website/)
 
 # [Project 1: Spendalyzer - A Bank Statement Analytics Application - WIP]([https://github.com/franklinjtan/Exploratory-Data-Analysis-Netflix-Movie-Data](https://github.com/franklinjtan/Spendalyzer-Bank-Statement-Analytics))
