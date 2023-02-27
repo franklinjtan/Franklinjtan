@@ -6,7 +6,7 @@
 * [Book Reads](https://docs.google.com/spreadsheets/d/e/2PACX-1vRV0-0uWWpNxamZL3CbJzEVE6gsGag2Ik7O8Gn5PzjvLQXLtnl_dGavcmdh_MqkBgkChYxQzVF6ksvc/pubhtml)
 * [Cornell University MSBA Data Science Club](https://cornell-msba-ds.github.io/website/)
 
-# [Project 1: Spendalyzer - A Bank Statement Analytics Application - WIP]([https://github.com/franklinjtan/Exploratory-Data-Analysis-Netflix-Movie-Data](https://github.com/franklinjtan/Spendalyzer-Bank-Statement-Analytics))
+# [Project 1: Spendalyzer - A Bank Statement Analytics Application - WIP]([https://github.com/franklinjtan/Spendalyzer-Bank-Statement-Analytics](https://github.com/franklinjtan/Spendalyzer-Bank-Statement-Analytics))
 * An interactive web application that allows users to analyze their purchase history, understand their purchasing behavior, and receive recommendations based on scientific forecasts.<br>
 * Featured functionality includes ability to read AMEX transaction descriptions and classify, using Naive Bayes whether a transaction is a necessity or not. Currently, users specify which categories are necessities.
 * Used pandas, numpy, dash, nltk, and plotly libraries for data wrangling, data visualizations, web application framework, and ML algorithms.
