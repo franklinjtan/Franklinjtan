@@ -10,8 +10,8 @@
 * Used pandas, numpy, dash, nltk, and plotly libraries for data wrangling, data visualizations, web application framework, and ML algorithms.
 * Next step would be to host the application, improve user experience, and market the product. 
 ![Spendalyzer](/images/Spendalyzer.png)
-![Recommendations](/images/SMA and ES Forecasting.png)
-![Spending Heatmap](/images/Heatmap of Transactions.png)
+![Recommendations](/images/SMA-and-ES-Forecasting.png)
+![Spending Heatmap](/images/Heatmap-of-Transactions.png)
 ![Time Series of Spending](/images/time-series-transactions.png)
 
 # [Project 2: Exploratory Data Analysis: Netflix Movie Data](https://github.com/franklinjtan/Exploratory-Data-Analysis-Netflix-Movie-Data)
