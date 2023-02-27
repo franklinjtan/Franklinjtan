@@ -7,6 +7,7 @@
 
 # [Project 1: Spendalyzer - A Bank Statement Analytics Application - WIP]([https://github.com/franklinjtan/Exploratory-Data-Analysis-Netflix-Movie-Data](https://github.com/franklinjtan/Spendalyzer-Bank-Statement-Analytics))
 * An interactive web application that allows users to analyze their purchase history, understand their purchasing behavior, and receive recommendations based on scientific forecasts.<br>
+* Featured functionality includes ability to read AMEX descriptions and classify, using Naive Bayes whether a transaction is a necessity or not. Currently, users specify which categories are necessities.
 * Used pandas, numpy, dash, nltk, and plotly libraries for data wrangling, data visualizations, web application framework, and ML algorithms.
 * Next step would be to host the application, improve user experience, and market the product. 
 ![Spendalyzer](/images/Spendalyzer.png)
