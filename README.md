@@ -5,19 +5,28 @@
 * [Github](https://github.com/franklinjtan)
 * [Book Collection](https://docs.google.com/spreadsheets/d/e/2PACX-1vRV0-0uWWpNxamZL3CbJzEVE6gsGag2Ik7O8Gn5PzjvLQXLtnl_dGavcmdh_MqkBgkChYxQzVF6ksvc/pubhtml)
 
-# [Project 1: Exploratory Data Analysis: Netflix Movie Data](https://github.com/franklinjtan/Exploratory-Data-Analysis-Netflix-Movie-Data)
+# [Project 1: Spendalyzer - A Bank Statement Analytics Application - WIP]([https://github.com/franklinjtan/Exploratory-Data-Analysis-Netflix-Movie-Data](https://github.com/franklinjtan/Spendalyzer-Bank-Statement-Analytics))
+* An interactive web application that allows users to analyze their purchase history, understand their purchasing behavior, and receive recommendations based on scientific forecasts.<br>
+* Used pandas, numpy, dash, nltk, and plotly libraries for data wrangling, data visualizations, web application framework, and ML algorithms.
+* Next step would be to host the application, improve user experience, and market the product. 
+![Spendalyzer](/images/Spendalyzer.png)
+![Recommendations](/images/SMA and ES Forecasting.png)
+![Spending Heatmap](/images/Heatmap of Transactions.png)
+![Time Series of Spending](/images/time-series-transactions.png)
+
+# [Project 2: Exploratory Data Analysis: Netflix Movie Data](https://github.com/franklinjtan/Exploratory-Data-Analysis-Netflix-Movie-Data)
 * Created a set of analyses and data visualizations that explores whether Netflix movies are getting longer or shorter<br>
 * Used matplotlib, pandas, seaborn to generate line charts, bar charts, histograms, box plots, scatterplots, and groupedby dataframes
 ![Scatterplot-Netflix](/images/scatterplot-netflix.png)
 ![Linechart-Netflix](/images/lineplot-netflix.png)
 
-# [Project 2: Portfolio Diversification: Correlation Risk Management with Python](https://github.com/franklinjtan/Portfolio-Diversification-Correlation-Risk-Management-with-Python)
+# [Project 3: Portfolio Diversification: Correlation Risk Management with Python](https://github.com/franklinjtan/Portfolio-Diversification-Correlation-Risk-Management-with-Python)
 * Understanding the importance of diversification and a portfolio of uncorrelated returns, I plotted the 5-year returns of several equities, ETFs, and commodities against SPY. 
 * I also used linear regression to calculate the beta and correlation, and generated a correlation matrix and a heatmap.<br>
 ![Correlation Matrix](/images/correlation_matrix.png)
 ![Heatmap of Portfolio](/images/heatmap.png)
 
-# [Project 3: Subway Yelp Reviews Analysis](https://github.com/franklinjtan/Subway-Yelp-Reviews-Analysis)
+# [Project 4: Subway Yelp Reviews Analysis](https://github.com/franklinjtan/Subway-Yelp-Reviews-Analysis)
 * Created a set of analyses and data visualizations that support or disprove the following statements made by Subway Restaurant leadership:
   * Head of Customer Service: “Our ratings are gradually improving, and we will soon reach 4.5/5.”
   * Head of Store Operations: “Sandwiches are a tricky business. All sandwich chains suffer from poor customer ratings.”
@@ -27,19 +36,19 @@
 ![Avg Ratings by State through the Years](/images/subway_fig_10.png)
 ![Total Ratings Received by stars value and years 2018-2021](/images/subway_fig_11.png)
 
-# [Project 4: Monte Carlo Simulation - Optimal Production Level](https://github.com/franklinjtan/-Monte-Carlo-Simulation---Optimal-Production-Level-)
+# [Project 5: Monte Carlo Simulation - Optimal Production Level](https://github.com/franklinjtan/-Monte-Carlo-Simulation---Optimal-Production-Level-)
 * Created a program simulation written in Python that will generate a production level recommendation given a set of parameters
 * Used NumPy to generate a random sample of demand instances from a normal (Gaussian) distribution.
 * Used matplotlib to generate a scatterplot visualization with a color scale depicting optimal ranges of production
 ![](/images/fig2.png)
 ![](/images/fig3.png)
 
-# [Project 5: Visualizing and Forecasting Monthly Retail Trade Data](https://github.com/franklinjtan/Visualizing-and-Forecasting-Monthly-Retail-Trade-Data)
+# [Project 6: Visualizing and Forecasting Monthly Retail Trade Data](https://github.com/franklinjtan/Visualizing-and-Forecasting-Monthly-Retail-Trade-Data)
 * Cleaned and prepared monthly retail trade data from the Census Burea to create a time-series of various industries from 1992 to 2022
 * Used Python Pandas for data cleaning and Tableau to create visualizations
 * [Tableau Dashboard](https://public.tableau.com/app/profile/franklin.tan/viz/StartupsFueleCommerceGrowth/Dashboard5)
 
-# [Project 6: Fashion Store Crawler](https://github.com/franklinjtan/fashion-store-crawler)
+# [Project 7: Fashion Store Crawler](https://github.com/franklinjtan/fashion-store-crawler)
 * Created an application that crawls the a fashion store website and extracts product information to helps users track and reduce their environmental impact.
 * Scraped over 1000 product descriptions from the clothing store, The Reformation using python and selenium
 * Stored the data in a hosted database (AWS RDS).
