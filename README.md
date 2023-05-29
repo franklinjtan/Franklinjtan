@@ -6,15 +6,14 @@
 * [Book Reads](https://docs.google.com/spreadsheets/d/e/2PACX-1vRV0-0uWWpNxamZL3CbJzEVE6gsGag2Ik7O8Gn5PzjvLQXLtnl_dGavcmdh_MqkBgkChYxQzVF6ksvc/pubhtml)
 * [Cornell University MSBA Data Science Club](https://cornell-msba-ds.github.io/website/)
 
-# [Project 1: Spendalyzer - A Bank Statement Analytics Application - WIP](https://github.com/franklinjtan/Spendalyzer-Bank-Statement-Analytics)
-* An interactive web application that allows users to analyze their purchase history, understand their purchasing behavior, and receive recommendations based on scientific forecasts.<br>
-* Featured functionality includes ability to read AMEX transaction descriptions and classify, using Naive Bayes whether a transaction is a necessity or not. Currently, users specify which categories are necessities.
-* Used pandas, numpy, dash, nltk, and plotly libraries for data wrangling, data visualizations, web application framework, and ML algorithms.
-* Next steps in no particular order would be to add new functionalities such as classifying expenses in a category using a ML Algorithm, reading in statement transaction from other banks (using Computer Vision), getting feedback from users, and hosting the site.
+# [Project 1: Spendalyzer - A Bank Statement Analytics Application](https://github.com/franklinjtan/Spendalyzer-Bank-Statement-Analytics)
+* 2nd Place Winner at the Cornell SC Johnson Data Science Showcase on May 22, 2023
+* Our motivation to address this problem stemmed from our research on the growing credit card debt in the United States and the lack of predictive and prescriptive analytics in budgeting and personal finance apps. While you may receive information on your spending and where it occurs, you typically don't receive real-time feedback on which categories to cut back on, personalized strategies to adopt, or an understanding of your strengths and weaknesses.<br>
+* Our solution incorporates the OKR and KPI measurement framework to track spending data and establish a realistic budget. We utilize ML models like Naive Bayes to classify transactions as necessities or not, advanced forecasting methods to predict categories of overspending and prescribe strategies to take, gamification to encourage healthy spending habits, and a Chrome Extension that analyzes your recent purchase history and engages System 2 (deliberate thinking) to prevent impulse purchases.<br>
+* Used pandas, numpy, dash, nltk, panel, and plotly libraries for data wrangling, data visualizations, web application framework, ML algorithms, and dashboard deployment.
+![Dashboard](/images/dashboard.jpeg)
 ![Spendalyzer](/images/Spendalyzer.png)
 ![Recommendations](/images/SMA-and-ES-Forecasting.png)
-![Spending Heatmap](/images/Heatmap-of-Transactions.png)
-![Time Series of Spending](/images/time-series-transactions.png)
 
 # [Project 2: Exploratory Data Analysis: Netflix Movie Data](https://github.com/franklinjtan/Exploratory-Data-Analysis-Netflix-Movie-Data)
 * Created a set of analyses and data visualizations that explores whether Netflix movies are getting longer or shorter<br>
