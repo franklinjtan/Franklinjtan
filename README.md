@@ -23,13 +23,13 @@ I conducted a comprehensive consumer behavior analysis for the Supplemental Nutr
   2. Emotional Responses: SNAP households experience stronger cravings for both hedonic and utilitarian food items due to their stressful situation, prioritizing immediate gratification.
   3. Coherence in Hedonic Purchases: Despite being aware of potential health risks, SNAP households justify hedonic food choices to maintain coherence and emotional well-being.
   4. Statistically Significant Findings:
-   1. SNAP households buy more hedonic products but fewer utilitarian products compared to non-SNAP households
-   2. Income and education are not statistically significant predictors of SNAP households' consumption patterns.
-   3. SNAP households do not consider hedonic food to be better value for money compared to utilitarian food.
-   4. SNAP households perceive both hedonic and utilitarian products as less unhealthy than non-SNAP households.
-   5. SNAP households report higher craving levels for both hedonic and utilitarian products compared to non-SNAP households.
-   6. The relationship between craving and unhealthiness perception is stronger among SNAP households.
-   7. 
+     * SNAP households buy more hedonic products but fewer utilitarian products compared to non-SNAP households
+     * Income and education are not statistically significant predictors of SNAP households' consumption patterns.
+     * SNAP households do not consider hedonic food to be better value for money compared to utilitarian food.
+     * SNAP households perceive both hedonic and utilitarian products as less unhealthy than non-SNAP households.
+     * SNAP households report higher craving levels for both hedonic and utilitarian products compared to non-SNAP households.
+     * The relationship between craving and unhealthiness perception is stronger among SNAP households.
+      
 # [Project 3: Customer Lifetime Value Prediction](https://github.com/franklinjtan/Customer-Lifetime-Value-Prediction/tree/main)
 * Performed RFM analysis, created customer segments, and predicted CLV for a 6-month period, enabling businesses to make informed decisions about customer acquisition, retention, and management strategies.<br>
 * Recency scores were assigned to each customer based on their last purchase date.
