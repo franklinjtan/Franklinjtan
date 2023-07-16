@@ -15,7 +15,20 @@
 ![Spendalyzer](/images/Spendalyzer.png)
 ![Recommendations](/images/SMA-and-ES-Forecasting.png)
 
-# [Project 2: Customer Lifetime Value Prediction](https://github.com/franklinjtan/Customer-Lifetime-Value-Prediction/tree/main)
+# [Project 2: Supplemental Nutrition Assistance Program: Consumer Behavior Analysis with Python](https://github.com/franklinjtan/Food-Stamps-Consumer-Behavior-Analysis/tree/main)
+* I conducted a comprehensive consumer behavior analysis for the Supplemental Nutrition Assistance Program (SNAP) using Python. SNAP is a food assistance program in the US for low-income households. The analysis aimed to understand the psychological mechanisms driving SNAP households' tendencies to purchase unhealthy, hedonic food items. The research identified key insights and made recommendations to the USDA Director to reduce unhealthy food consumption among SNAP participants.<br>
+**Key Insights:**
+  1. Attention to Hedonic Food Items: SNAP households exhibit higher cravings for both hedonic and utilitarian food items compared to non-SNAP households. Their circumstances may lead to reliance on heuristics (system 1 thinking) rather than analytical thinking (system 2), influencing their food choices.
+  2. Emotional Responses: SNAP households experience stronger cravings for both hedonic and utilitarian food items due to their stressful situation, prioritizing immediate gratification.
+  3. Coherence in Hedonic Purchases: Despite being aware of potential health risks, SNAP households justify hedonic food choices to maintain coherence and emotional well-being.
+  4. Statistically Significant Findings:
+   1. SNAP households buy more hedonic products but fewer utilitarian products compared to non-SNAP households
+   2. Income and education are not statistically significant predictors of SNAP households' consumption patterns.
+   3. SNAP households do not consider hedonic food to be better value for money compared to utilitarian food.
+   4. SNAP households perceive both hedonic and utilitarian products as less unhealthy than non-SNAP households.
+   5. SNAP households report higher craving levels for both hedonic and utilitarian products compared to non-SNAP households.
+   6. The relationship between craving and unhealthiness perception is stronger among SNAP households.
+# [Project 3: Customer Lifetime Value Prediction](https://github.com/franklinjtan/Customer-Lifetime-Value-Prediction/tree/main)
 * Performed RFM analysis, created customer segments, and predicted CLV for a 6-month period, enabling businesses to make informed decisions about customer acquisition, retention, and management strategies.<br>
 * Recency scores were assigned to each customer based on their last purchase date.
 * Recency clusters were ordered and assigned based on the recency scores.<br>
@@ -26,19 +39,19 @@
 * Customer Lifetime Value (CLV) for a 6-month period was calculated by summing the revenue for each customer.<br>
 ![Dashboard](/images/ltv_plot.png)
 
-# [Project 3: Exploratory Data Analysis: Netflix Movie Data](https://github.com/franklinjtan/Exploratory-Data-Analysis-Netflix-Movie-Data)
+# [Project 4: Exploratory Data Analysis: Netflix Movie Data](https://github.com/franklinjtan/Exploratory-Data-Analysis-Netflix-Movie-Data)
 * Created a set of analyses and data visualizations that explores whether Netflix movies are getting longer or shorter<br>
 * Used matplotlib, pandas, seaborn to generate line charts, bar charts, histograms, box plots, scatterplots, and groupedby dataframes
 ![Scatterplot-Netflix](/images/scatterplot-netflix.png)
 ![Linechart-Netflix](/images/lineplot-netflix.png)
 
-# [Project 4: Portfolio Diversification: Correlation Risk Management with Python](https://github.com/franklinjtan/Portfolio-Diversification-Correlation-Risk-Management-with-Python)
+# [Project 5: Portfolio Diversification: Correlation Risk Management with Python](https://github.com/franklinjtan/Portfolio-Diversification-Correlation-Risk-Management-with-Python)
 * Understanding the importance of diversification and a portfolio of uncorrelated returns, I plotted the 5-year returns of several equities, ETFs, and commodities against SPY. 
 * I also used linear regression to calculate the beta and correlation, and generated a correlation matrix and a heatmap.<br>
 ![Correlation Matrix](/images/correlation_matrix.png)
 ![Heatmap of Portfolio](/images/heatmap.png)
 
-# [Project 5: Subway Yelp Reviews Analysis](https://github.com/franklinjtan/Subway-Yelp-Reviews-Analysis)
+# [Project 6: Subway Yelp Reviews Analysis](https://github.com/franklinjtan/Subway-Yelp-Reviews-Analysis)
 * Created a set of analyses and data visualizations that support or disprove the following statements made by Subway Restaurant leadership:
   * Head of Customer Service: “Our ratings are gradually improving, and we will soon reach 4.5/5.”
   * Head of Store Operations: “Sandwiches are a tricky business. All sandwich chains suffer from poor customer ratings.”
@@ -48,19 +61,19 @@
 ![Avg Ratings by State through the Years](/images/subway_fig_10.png)
 ![Total Ratings Received by stars value and years 2018-2021](/images/subway_fig_11.png)
 
-# [Project 6: Monte Carlo Simulation - Optimal Production Level](https://github.com/franklinjtan/-Monte-Carlo-Simulation---Optimal-Production-Level-)
+# [Project 7: Monte Carlo Simulation - Optimal Production Level](https://github.com/franklinjtan/-Monte-Carlo-Simulation---Optimal-Production-Level-)
 * Created a program simulation written in Python that will generate a production level recommendation given a set of parameters
 * Used NumPy to generate a random sample of demand instances from a normal (Gaussian) distribution.
 * Used matplotlib to generate a scatterplot visualization with a color scale depicting optimal ranges of production
 ![](/images/fig2.png)
 ![](/images/fig3.png)
 
-# [Project 7: Visualizing and Forecasting Monthly Retail Trade Data](https://github.com/franklinjtan/Visualizing-and-Forecasting-Monthly-Retail-Trade-Data)
+# [Project 8: Visualizing and Forecasting Monthly Retail Trade Data](https://github.com/franklinjtan/Visualizing-and-Forecasting-Monthly-Retail-Trade-Data)
 * Cleaned and prepared monthly retail trade data from the Census Burea to create a time-series of various industries from 1992 to 2022
 * Used Python Pandas for data cleaning and Tableau to create visualizations
 * [Tableau Dashboard](https://public.tableau.com/app/profile/franklin.tan/viz/StartupsFueleCommerceGrowth/Dashboard5)
 
-# [Project 8: Fashion Store Crawler](https://github.com/franklinjtan/fashion-store-crawler)
+# [Project 9: Fashion Store Crawler](https://github.com/franklinjtan/fashion-store-crawler)
 * Created an application that crawls the a fashion store website and extracts product information to helps users track and reduce their environmental impact.
 * Scraped over 1000 product descriptions from the clothing store, The Reformation using python and selenium
 * Stored the data in a hosted database (AWS RDS).
