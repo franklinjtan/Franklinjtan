@@ -17,6 +17,7 @@
 
 # [Project 2: Supplemental Nutrition Assistance Program: Consumer Behavior Analysis with Python](https://github.com/franklinjtan/Food-Stamps-Consumer-Behavior-Analysis/tree/main)
 * I conducted a comprehensive consumer behavior analysis for the Supplemental Nutrition Assistance Program (SNAP) using Python. SNAP is a food assistance program in the US for low-income households. The analysis aimed to understand the psychological mechanisms driving SNAP households' tendencies to purchase unhealthy, hedonic food items. The research identified key insights and made recommendations to the USDA Director to reduce unhealthy food consumption among SNAP participants.<br>
+
 **Key Insights:**
   1. Attention to Hedonic Food Items: SNAP households exhibit higher cravings for both hedonic and utilitarian food items compared to non-SNAP households. Their circumstances may lead to reliance on heuristics (system 1 thinking) rather than analytical thinking (system 2), influencing their food choices.
   2. Emotional Responses: SNAP households experience stronger cravings for both hedonic and utilitarian food items due to their stressful situation, prioritizing immediate gratification.
@@ -28,6 +29,7 @@
    4. SNAP households perceive both hedonic and utilitarian products as less unhealthy than non-SNAP households.
    5. SNAP households report higher craving levels for both hedonic and utilitarian products compared to non-SNAP households.
    6. The relationship between craving and unhealthiness perception is stronger among SNAP households.
+   7. 
 # [Project 3: Customer Lifetime Value Prediction](https://github.com/franklinjtan/Customer-Lifetime-Value-Prediction/tree/main)
 * Performed RFM analysis, created customer segments, and predicted CLV for a 6-month period, enabling businesses to make informed decisions about customer acquisition, retention, and management strategies.<br>
 * Recency scores were assigned to each customer based on their last purchase date.
