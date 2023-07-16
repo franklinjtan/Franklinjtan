@@ -16,7 +16,7 @@
 ![Recommendations](/images/SMA-and-ES-Forecasting.png)
 
 # [Project 2: Supplemental Nutrition Assistance Program: Consumer Behavior Analysis with Python](https://github.com/franklinjtan/Food-Stamps-Consumer-Behavior-Analysis/tree/main)
-* I conducted a comprehensive consumer behavior analysis for the Supplemental Nutrition Assistance Program (SNAP) using Python. SNAP is a food assistance program in the US for low-income households. The analysis aimed to understand the psychological mechanisms driving SNAP households' tendencies to purchase unhealthy, hedonic food items. The research identified key insights and made recommendations to the USDA Director to reduce unhealthy food consumption among SNAP participants.<br>
+I conducted a comprehensive consumer behavior analysis for the Supplemental Nutrition Assistance Program (SNAP) using Python. SNAP is a food assistance program in the US for low-income households. The analysis aimed to understand the psychological mechanisms driving SNAP households' tendencies to purchase unhealthy, hedonic food items. The research identified key insights and made recommendations to the USDA Director to reduce unhealthy food consumption among SNAP participants.<br>
 
 **Key Insights:**
   1. Attention to Hedonic Food Items: SNAP households exhibit higher cravings for both hedonic and utilitarian food items compared to non-SNAP households. Their circumstances may lead to reliance on heuristics (system 1 thinking) rather than analytical thinking (system 2), influencing their food choices.
