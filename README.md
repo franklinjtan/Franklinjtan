@@ -6,7 +6,21 @@
 * [Book Reads](https://docs.google.com/spreadsheets/d/e/2PACX-1vRV0-0uWWpNxamZL3CbJzEVE6gsGag2Ik7O8Gn5PzjvLQXLtnl_dGavcmdh_MqkBgkChYxQzVF6ksvc/pubhtml)
 * [Cornell University MSBA Data Science Club](https://cornell-msba-ds.github.io/website/)
 
-# [Project 1: Spendalyzer - A Bank Statement Analytics Application](https://github.com/franklinjtan/Spendalyzer-Bank-Statement-Analytics)
+# [Project 1: Kickstarter Analytics Capstone Project]([https://github.com/franklinjtan/Spendalyzer-Bank-Statement-Analytics](https://github.com/franklinjtan/Kickstarter-Analytics))
+* Business Problem: ![KS Business Problem](/images/ks_current_challenges.png)
+* Business Recommendations Summary:
+  * Kickstarter New Campaign Moratorium (during low activity months) to focus on improving the quality of current projects, and create a sense of excitement.
+  * Green Day! Similar to Black Friday, but to support entrepreneurs and bring ambitious, innovative, and imaginative ideas to life
+  * Provide marketing services to Kickstarter Creators to help them optimize the launch of their campaigns. Overambitious funding targets can lead to project failure, disappointment among backers, and potential damage to Kickstarter's reputation. By helping creators set appropriate funding goals, Kickstarter can increase the chances of project success and backer satisfaction.
+  * Attract Organic Backers: One way to achieve this is by enhancing the platform's visibility and outreach to potential backers, showcasing successful projects, and engaging with the creative community. Building a strong initial backing for projects will help create a sense of momentum and social proof, which can attract additional support.
+  * Incentivize Larger Pledges: Kickstarter should continue pursuing strategies that reward and incentivize backers who contribute higher amounts. Offering exclusive perks, early access, or special recognition like badges to backers making significant contributions can motivate backers to pledge more, leading to increased revenue for both Kickstarter and project creators.
+  * Influencer partnerships and projects to drive awareness and expand social media presence. 
+* ![KS Business Problem](/images/ks_hypotheses_and_approaches.png)
+* [Implemented Machine Learning Models and Statistical Methods (Logistic Regression, Decision Trees, LightGBM + ANOVA, and Tukey's Honest Significance Test)](https://github.com/franklinjtan/Kickstarter-Analytics/tree/main/modeling)
+* [See Descriptive Statistics and Exploratory Data Analysis Presentation](https://github.com/franklinjtan/Kickstarter-Analytics/blob/main/files/Descriptive%20Statistics%20and%20Results%20from%20Data%20Exploration.pdf)
+* [See Hypotheses Testing and Implementation Plan](https://github.com/franklinjtan/Kickstarter-Analytics/blob/main/files/Revised%20Results%2C%20Insights%20Summary%2C%20and%20Implementation%20Plan.pdf)
+
+# [Project 2: Spendalyzer - A Bank Statement Analytics Application](https://github.com/franklinjtan/Spendalyzer-Bank-Statement-Analytics)
 * 2nd Place Winner at the Cornell SC Johnson Data Science Showcase on May 22, 2023
 * Our motivation to address this problem stemmed from our research on the growing credit card debt in the United States and the lack of predictive and prescriptive analytics in budgeting and personal finance apps. While you may receive information on your spending and where it occurs, you typically don't receive real-time feedback on which categories to cut back on, personalized strategies to adopt, or an understanding of your strengths and weaknesses.<br>
 * Our solution incorporates the OKR and KPI measurement framework to track spending data and establish a realistic budget. We utilize ML models like Naive Bayes to classify transactions as necessities or not, advanced forecasting methods to predict categories of overspending and prescribe strategies to take, gamification to encourage healthy spending habits, and a Chrome Extension that analyzes your recent purchase history and engages System 2 (deliberate thinking) to prevent impulse purchases.<br>
@@ -15,7 +29,7 @@
 ![Spendalyzer](/images/Spendalyzer.png)
 ![Recommendations](/images/SMA-and-ES-Forecasting.png)
 
-# [Project 2: Supplemental Nutrition Assistance Program: Consumer Behavior Analysis with Python](https://github.com/franklinjtan/Food-Stamps-Consumer-Behavior-Analysis/tree/main)
+# [Project 3: Supplemental Nutrition Assistance Program: Consumer Behavior Analysis with Python](https://github.com/franklinjtan/Food-Stamps-Consumer-Behavior-Analysis/tree/main)
 I conducted a comprehensive consumer behavior analysis for the Supplemental Nutrition Assistance Program (SNAP) using Python. SNAP is a food assistance program in the US for low-income households. The analysis aimed to understand the psychological mechanisms driving SNAP households' tendencies to purchase unhealthy, hedonic food items. The research identified key insights and made recommendations to the USDA Director to reduce unhealthy food consumption among SNAP participants.<br>
 
 **Key Insights:**
@@ -30,7 +44,7 @@ I conducted a comprehensive consumer behavior analysis for the Supplemental Nutr
      * SNAP households report higher craving levels for both hedonic and utilitarian products compared to non-SNAP households.
      * The relationship between craving and unhealthiness perception is stronger among SNAP households.
       
-# [Project 3: Customer Lifetime Value Prediction](https://github.com/franklinjtan/Customer-Lifetime-Value-Prediction/tree/main)
+# [Project 4: Customer Lifetime Value Prediction](https://github.com/franklinjtan/Customer-Lifetime-Value-Prediction/tree/main)
 * Performed RFM analysis, created customer segments, and predicted CLV for a 6-month period, enabling businesses to make informed decisions about customer acquisition, retention, and management strategies.<br>
 * Recency scores were assigned to each customer based on their last purchase date.
 * Recency clusters were ordered and assigned based on the recency scores.<br>
@@ -41,19 +55,19 @@ I conducted a comprehensive consumer behavior analysis for the Supplemental Nutr
 * Customer Lifetime Value (CLV) for a 6-month period was calculated by summing the revenue for each customer.<br>
 ![Dashboard](/images/ltv_plot.png)
 
-# [Project 4: Exploratory Data Analysis: Netflix Movie Data](https://github.com/franklinjtan/Exploratory-Data-Analysis-Netflix-Movie-Data)
+# [Project 5: Exploratory Data Analysis: Netflix Movie Data](https://github.com/franklinjtan/Exploratory-Data-Analysis-Netflix-Movie-Data)
 * Created a set of analyses and data visualizations that explores whether Netflix movies are getting longer or shorter<br>
 * Used matplotlib, pandas, seaborn to generate line charts, bar charts, histograms, box plots, scatterplots, and groupedby dataframes
 ![Scatterplot-Netflix](/images/scatterplot-netflix.png)
 ![Linechart-Netflix](/images/lineplot-netflix.png)
 
-# [Project 5: Portfolio Diversification: Correlation Risk Management with Python](https://github.com/franklinjtan/Portfolio-Diversification-Correlation-Risk-Management-with-Python)
+# [Project 6: Portfolio Diversification: Correlation Risk Management with Python](https://github.com/franklinjtan/Portfolio-Diversification-Correlation-Risk-Management-with-Python)
 * Understanding the importance of diversification and a portfolio of uncorrelated returns, I plotted the 5-year returns of several equities, ETFs, and commodities against SPY. 
 * I also used linear regression to calculate the beta and correlation, and generated a correlation matrix and a heatmap.<br>
 ![Correlation Matrix](/images/correlation_matrix.png)
 ![Heatmap of Portfolio](/images/heatmap.png)
 
-# [Project 6: Subway Yelp Reviews Analysis](https://github.com/franklinjtan/Subway-Yelp-Reviews-Analysis)
+# [Project 7: Subway Yelp Reviews Analysis](https://github.com/franklinjtan/Subway-Yelp-Reviews-Analysis)
 * Created a set of analyses and data visualizations that support or disprove the following statements made by Subway Restaurant leadership:
   * Head of Customer Service: “Our ratings are gradually improving, and we will soon reach 4.5/5.”
   * Head of Store Operations: “Sandwiches are a tricky business. All sandwich chains suffer from poor customer ratings.”
@@ -63,19 +77,19 @@ I conducted a comprehensive consumer behavior analysis for the Supplemental Nutr
 ![Avg Ratings by State through the Years](/images/subway_fig_10.png)
 ![Total Ratings Received by stars value and years 2018-2021](/images/subway_fig_11.png)
 
-# [Project 7: Monte Carlo Simulation - Optimal Production Level](https://github.com/franklinjtan/-Monte-Carlo-Simulation---Optimal-Production-Level-)
+# [Project 8: Monte Carlo Simulation - Optimal Production Level](https://github.com/franklinjtan/-Monte-Carlo-Simulation---Optimal-Production-Level-)
 * Created a program simulation written in Python that will generate a production level recommendation given a set of parameters
 * Used NumPy to generate a random sample of demand instances from a normal (Gaussian) distribution.
 * Used matplotlib to generate a scatterplot visualization with a color scale depicting optimal ranges of production
 ![](/images/fig2.png)
 ![](/images/fig3.png)
 
-# [Project 8: Visualizing and Forecasting Monthly Retail Trade Data](https://github.com/franklinjtan/Visualizing-and-Forecasting-Monthly-Retail-Trade-Data)
+# [Project 9: Visualizing and Forecasting Monthly Retail Trade Data](https://github.com/franklinjtan/Visualizing-and-Forecasting-Monthly-Retail-Trade-Data)
 * Cleaned and prepared monthly retail trade data from the Census Burea to create a time-series of various industries from 1992 to 2022
 * Used Python Pandas for data cleaning and Tableau to create visualizations
 * [Tableau Dashboard](https://public.tableau.com/app/profile/franklin.tan/viz/StartupsFueleCommerceGrowth/Dashboard5)
 
-# [Project 9: Fashion Store Crawler](https://github.com/franklinjtan/fashion-store-crawler)
+# [Project 10: Fashion Store Crawler](https://github.com/franklinjtan/fashion-store-crawler)
 * Created an application that crawls the a fashion store website and extracts product information to helps users track and reduce their environmental impact.
 * Scraped over 1000 product descriptions from the clothing store, The Reformation using python and selenium
 * Stored the data in a hosted database (AWS RDS).
