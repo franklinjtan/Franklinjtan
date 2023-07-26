@@ -15,6 +15,7 @@
   * Attract Organic Backers: One way to achieve this is by enhancing the platform's visibility and outreach to potential backers, showcasing successful projects, and engaging with the creative community. Building a strong initial backing for projects will help create a sense of momentum and social proof, which can attract additional support.
   * Incentivize Larger Pledges: Kickstarter should continue pursuing strategies that reward and incentivize backers who contribute higher amounts. Offering exclusive perks, early access, or special recognition like badges to backers making significant contributions can motivate backers to pledge more, leading to increased revenue for both Kickstarter and project creators.
   * Influencer partnerships and projects to drive awareness and expand social media presence. 
+
 ![KS Business Problem](/images/ks_hypotheses_and_approaches.png)
 * [See Implemented Machine Learning Models and Statistical Methods (Logistic Regression, Decision Trees, LightGBM + ANOVA, and Tukey's Honest Significance Test)](https://github.com/franklinjtan/Kickstarter-Analytics/tree/main/modeling)
 * [See Descriptive Statistics and Exploratory Data Analysis Presentation](https://github.com/franklinjtan/Kickstarter-Analytics/blob/main/files/Descriptive%20Statistics%20and%20Results%20from%20Data%20Exploration.pdf)
