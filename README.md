@@ -7,16 +7,16 @@
 * [Cornell University MSBA Data Science Club](https://cornell-msba-ds.github.io/website/)
 
 # [Project 1: Kickstarter Analytics Capstone Project]([https://github.com/franklinjtan/Spendalyzer-Bank-Statement-Analytics](https://github.com/franklinjtan/Kickstarter-Analytics))
-* Business Problem: ![KS Business Problem](/images/ks_current_challenges.png)
-* Business Recommendations Summary:
+![KS Business Problem](/images/ks_current_challenges.png)
+* **Business Recommendations Summary:**
   * Kickstarter New Campaign Moratorium (during low activity months) to focus on improving the quality of current projects, and create a sense of excitement.
   * Green Day! Similar to Black Friday, but to support entrepreneurs and bring ambitious, innovative, and imaginative ideas to life
   * Provide marketing services to Kickstarter Creators to help them optimize the launch of their campaigns. Overambitious funding targets can lead to project failure, disappointment among backers, and potential damage to Kickstarter's reputation. By helping creators set appropriate funding goals, Kickstarter can increase the chances of project success and backer satisfaction.
   * Attract Organic Backers: One way to achieve this is by enhancing the platform's visibility and outreach to potential backers, showcasing successful projects, and engaging with the creative community. Building a strong initial backing for projects will help create a sense of momentum and social proof, which can attract additional support.
   * Incentivize Larger Pledges: Kickstarter should continue pursuing strategies that reward and incentivize backers who contribute higher amounts. Offering exclusive perks, early access, or special recognition like badges to backers making significant contributions can motivate backers to pledge more, leading to increased revenue for both Kickstarter and project creators.
   * Influencer partnerships and projects to drive awareness and expand social media presence. 
-* ![KS Business Problem](/images/ks_hypotheses_and_approaches.png)
-* [Implemented Machine Learning Models and Statistical Methods (Logistic Regression, Decision Trees, LightGBM + ANOVA, and Tukey's Honest Significance Test)](https://github.com/franklinjtan/Kickstarter-Analytics/tree/main/modeling)
+![KS Business Problem](/images/ks_hypotheses_and_approaches.png)
+* [See Implemented Machine Learning Models and Statistical Methods (Logistic Regression, Decision Trees, LightGBM + ANOVA, and Tukey's Honest Significance Test)](https://github.com/franklinjtan/Kickstarter-Analytics/tree/main/modeling)
 * [See Descriptive Statistics and Exploratory Data Analysis Presentation](https://github.com/franklinjtan/Kickstarter-Analytics/blob/main/files/Descriptive%20Statistics%20and%20Results%20from%20Data%20Exploration.pdf)
 * [See Hypotheses Testing and Implementation Plan](https://github.com/franklinjtan/Kickstarter-Analytics/blob/main/files/Revised%20Results%2C%20Insights%20Summary%2C%20and%20Implementation%20Plan.pdf)
 
