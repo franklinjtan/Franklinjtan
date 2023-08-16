@@ -14,7 +14,23 @@
   * Provide marketing services to Kickstarter Creators to help them optimize the launch of their campaigns. Overambitious funding targets can lead to project failure, disappointment among backers, and potential damage to Kickstarter's reputation. By helping creators set appropriate funding goals, Kickstarter can increase the chances of project success and backer satisfaction.
   * Attract Organic Backers: One way to achieve this is by enhancing the platform's visibility and outreach to potential backers, showcasing successful projects, and engaging with the creative community. Building a strong initial backing for projects will help create a sense of momentum and social proof, which can attract additional support.
   * Incentivize Larger Pledges: Kickstarter should continue pursuing strategies that reward and incentivize backers who contribute higher amounts. Offering exclusive perks, early access, or special recognition like badges to backers making significant contributions can motivate backers to pledge more, leading to increased revenue for both Kickstarter and project creators.
-  * Influencer partnerships and projects to drive awareness and expand social media presence. 
+* Classification Methodology
+![KS method](/images/method.png)
+
+**1 Average pledge amount and number of backers follows a seasonal pattern**
+* December consistently shows the lowest average pledge amount and backer count, indicating a less favorable time for campaigns.
+* Average pledge amount and backer count sees a strong uptick in January and remains relatively stable throughout the following months.
+![ROC_curve](/images/finding_1.png)
+
+**2 Number of backers is one of the most important drivers of success**
+* More Organic Backers: Kickstarter should pursue strategies that attract and engage more organic backers to their platform.
+* Increased Likelihood of Backing: A high initial backer count on a project acts as social proof, increasing the likelihood of additional backers.
+* Project Success: Higher backer count contributes to achieving this goal, as each backer's contribution moves the project closer to its funding target.
+![bar-chart](/images/finding_2.png)
+
+**3 Projects with higher funding goals are less likely to succeed**
+* This finding highlights the importance of project creators setting realistic and attainable funding goals.
+![log_curve](/images/finding_3.png)
 
 ![KS Business Problem](/images/ks_hypotheses_and_approaches.png)
 * [See Implemented Machine Learning Models and Statistical Methods (Logistic Regression, Decision Trees, LightGBM + ANOVA, and Tukey's Honest Significance Test)](https://github.com/franklinjtan/Kickstarter-Analytics/tree/main/modeling)
