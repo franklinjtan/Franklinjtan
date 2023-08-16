@@ -20,9 +20,6 @@
 **Key Findings**
 ![ROC_curve](/images/finding_1.png)
 ![bar-chart](/images/finding_2.png)
-
-**3 Projects with higher funding goals are less likely to succeed**
-* This finding highlights the importance of project creators setting realistic and attainable funding goals.
 ![log_curve](/images/finding_3.png)
 
 ![KS Business Problem](/images/ks_hypotheses_and_approaches.png)
