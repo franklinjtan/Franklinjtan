@@ -17,15 +17,8 @@
 * Classification Methodology
 ![KS method](/images/method.png)
 
-**1 Average pledge amount and number of backers follows a seasonal pattern**
-* December consistently shows the lowest average pledge amount and backer count, indicating a less favorable time for campaigns.
-* Average pledge amount and backer count sees a strong uptick in January and remains relatively stable throughout the following months.
+**Key Findings**
 ![ROC_curve](/images/finding_1.png)
-
-**2 Number of backers is one of the most important drivers of success**
-* More Organic Backers: Kickstarter should pursue strategies that attract and engage more organic backers to their platform.
-* Increased Likelihood of Backing: A high initial backer count on a project acts as social proof, increasing the likelihood of additional backers.
-* Project Success: Higher backer count contributes to achieving this goal, as each backer's contribution moves the project closer to its funding target.
 ![bar-chart](/images/finding_2.png)
 
 **3 Projects with higher funding goals are less likely to succeed**
